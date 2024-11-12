@@ -3,6 +3,8 @@
 ## Action
 
 ### URL
+LinkBehaviour_9A777F3D_1E9F_7E49_4194_50423812FA8C.source = https://andikaarywiguna.github.io/tanahlapang/
+LinkBehaviour_6157C4A3_1E9F_8279_4190_37BE5BC9E94B.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_240ED8FE_0D18_23DB_4185_EB137588CDCC.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
@@ -13,18 +15,35 @@ PopupWebFrameBehaviour_25F73DA3_0D18_E26A_419D_C123D8D1BFEE.url = //www.youtube.
 ### Text
 HotspotPanoramaOverlayTextImage_0771EDF0_13EA_A795_41A4_D1D6FF8E23AC.text = PANTAI MOTOR CROSS
 HotspotPanoramaOverlayTextImage_34F5AA7F_14D9_6C8B_4197_23280AB4FA62.text = PANTAI MOTOR CROSS
+HotspotPanoramaOverlayTextImage_65E19918_1E6E_8257_41A2_014AF4A49E01.text = PANTAI PERANCAK
 HotspotPanoramaOverlayTextImage_76DC0988_14A9_6C75_41A6_07F5ECCA3BEF.text = TANAH LAPANG SIRKUIT MOTOR CROSS
 
 ## Media
 
 ### Image
 imlevel_6C55D875_14A6_AC9F_41B3_DF4749621157.url = media/panorama_06F11292_13FA_FD95_4196_DCF508E8D89C_HS_at8x00wn_en.png
+imlevel_9FBBED99_1E6E_8256_41B9_6222486400D6.url = media/panorama_06F11292_13FA_FD95_4196_DCF508E8D89C_HS_kdo8wd1l_en.png
 imlevel_3069CA36_14D9_EC9C_419D_02BF63EDBCFD.url = media/panorama_07333994_13FB_6F9D_4195_C75F3E894A9C_HS_u4a5veyu_en.png
 imlevel_0C3B11C8_13BA_BFF4_419B_600C0B7C6F0A.url = media/panorama_1FF448CF_05C3_EF54_4190_54BACFFA2B8D_HS_pge5e8vt_en.png
 
 ### Title
+panorama_9FA278A9_1DB7_8249_41AF_0E06281DB1EA.label = 1
+panorama_9F36BB16_1DB6_865B_4173_380413304004.label = 10
+panorama_9FA0C699_1DB1_8E49_41BE_6F10657C7E70.label = 12
+panorama_9FA09FF2_1DB1_9DD8_4192_48FA4EE93140.label = 13
+panorama_9FA04C42_1DB1_823B_41AC_AEEB0781305D.label = 14
+panorama_627DC2A4_1EAF_8679_41B8_0BE3F9CF75CC.label = 2
 photo_20044E34_15A6_A49D_41B3_073CEF89BCDD.label = 2023-11-06
 photo_266A5491_04C3_FF0B_4171_DBFC1F4D1749.label = 2024-04-23-banjar
+panorama_9FA132BE_1DB7_864B_41AC_0189F4EE6C3D.label = 3
+panorama_62F02077_1E93_82D9_41B3_AE42487956E1.label = 4
+panorama_9FA04CA4_1DB6_827F_418F_73A4156CFA5E.label = 4
+panorama_9F3A60CD_1DB2_83C9_41A7_5CBC6921A177.label = 5
+panorama_62F737D8_1E91_8DD7_41BF_5020B3AB7850.label = 5
+panorama_9FDE1F28_1DB2_BE77_41B0_B9AA50E6A256.label = 6
+panorama_62C3AD1F_1E91_824A_41B5_4A6868113B45.label = 7
+panorama_9FA053BE_1DB6_864B_41B9_556407076C3C.label = 8
+panorama_9FA0DFE8_1DB6_BDF7_41B5_F0A444D23CEB.label = 9
 panorama_1FFC6BA6_05C5_61D4_418B_92690E3B26F6.label = MotorCross101
 panorama_1FF448CF_05C3_EF54_4190_54BACFFA2B8D.label = MotorCross102
 panorama_1FF5BE23_05DE_A2CC_4167_4EE3D8AD8FE0.label = MotorCross12
@@ -93,16 +112,17 @@ panorama_1FFC50B7_05C5_7F34_4179_34E096B2B2D8.label = MotorCross99
 photo_27B23C12_15BB_A495_4197_8A33AE365265.label = Screenshot_11
 photo_2634FEC3_15EA_A5FB_41B1_2EB72FDD5402.label = Screenshot_12
 photo_2C664BB0_15EF_A395_419C_27D5DA99D9CF.label = Screenshot_13
+photo_63AA39F6_1EB3_85DB_4181_D51135D37D4E.label = Screenshot_14
 panorama_06F11292_13FA_FD95_4196_DCF508E8D89C.label = SirkuitMotorDroneAwal
 panorama_07333994_13FB_6F9D_4195_C75F3E894A9C.label = SirkuitMotorDroneKumpul
 
 ## Popup
 
 ### Body
-htmlText_262E7B6F_04C6_E917_4195_38F5367DCC10.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B><U>KANTOR PERBEKEL DESA PERANCAK</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">HJX8+3JR, Perancak, Kec. Jembrana, Kabupaten Jembrana, Bali<BR/><BR/>-8.40222055634737, 114.61652460033854</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Jarak total: 1,54 km (5.063,95 kaki) Menuju TEA Tanah Lapang Sirkuit Motor Cross</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_262E7B6F_04C6_E917_4195_38F5367DCC10.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>KANTOR PERBEKEL DESA PERANCAK</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Montserrat SemiBold';">-8.40222055634737, 114.61652460033854</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">HJX8+3JR, Perancak, Kec. Jembrana, Kabupaten Jembrana, Bali</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 1,54 km (5.063,95 kaki) Menuju TEA Tanah Lapang Sirkuit Motor Cross<BR/>_</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_2624A7D6_04C3_7909_4190_3C5B3C34F8B9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>PT. LIANINTI ABADI</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B><U/></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Agent Bunker dan Transportir Resmi BBM Industri Pertamina</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jl. Gurita, Pedungan, Denpasar Selatan, Kota Denpasar, Bali 80223</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">(0361) 721768</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">lianintifuelindustry@gmail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 2,59 km (1,61 mil) Menuju TEA Tanah Lapang Motor Cross<BR/>_</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_277FC19E_04C5_5939_415E_AD026B1C3646.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>PURA DANGKHAYANGAN GEDE PRANCAK JEMBRANA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Montserrat SemiBold';">-8.40222055634737, 114.61652460033854</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Perancak, Kec. Jembrana, Kabupaten Jembrana, Bali</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 2,17 km (1,35 mil) Menuju TEA Tanah Lapang Sirkuit Motor Cross</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV></BODY></HTML></div>
 htmlText_27E4ABD3_15A7_639B_41AB_CAA6B31ED207.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B><U>LPD DESA ADAT PRANCAK</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">-8.40171606416922, 114.6096027799364</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">HJX5+8RH Perancak, Kabupaten Jembrana, Bali</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Jarak total: 2,32 km (1,44 mil) Menuju TEA Tanah Lapang Sirkuit Motor Cross</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_2624A7D6_04C3_7909_4190_3C5B3C34F8B9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B><U>PT. LIANINTI ABADI</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B><U/></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Agent Bunker dan Transportir Resmi BBM Industri Pertamina</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Jl. Gurita, Pedungan, Denpasar Selatan, Kota Denpasar, Bali 80223</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">(0361) 721768</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">lianintifuelindustry@gmail.com<BR/><BR/>Jarak total: 2,59 km (1,61 mil) Menuju TEA Tanah Lapang Motor Cross</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_277FC19E_04C5_5939_415E_AD026B1C3646.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B><U>PURA DANGKHAYANGAN GEDE PRANCAK JEMBRANA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Perancak, Kec. Jembrana, Kabupaten Jembrana, Bali</SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"><BR/>-8.40222055634737, 114.61652460033854<BR/></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Jarak total: 2,17 km (1,35 mil) Menuju TEA Tanah Lapang Sirkuit Motor Cross</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_26CF812B_04C3_791F_418D_87CC14E33D38.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B><U>SD NEGERI 1 PERANCAK</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">HJW9+HVQ, Perancak, Kec. Jembrana, Kabupaten Jembrana, Bali</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">-8.40222055634737, 114.61652460033854</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Jarak total: 1,16 km (3.817,27 kaki) Menuju TEA Tanah Lapang Sirkuit Motor Cross</SPAN></DIV></BODY></HTML></div>
 htmlText_24211817_04C3_D737_4192_5A77F1797A9C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Pura Pesisir Perancakan<BR/><BR/><BR/></B>Perancak, Kec. Jembrana, Kabupaten Jembrana, Bali<BR/><BR/>HJX6+GC Perancak, Kabupaten Jembrana, Bali<BR/>-8.40144099283394, 114.61115921565552</SPAN></DIV></BODY></HTML></div>
 
@@ -114,70 +134,67 @@ Button_25477365_0D18_66EE_41A4_74CA7A759567.label = Chill Out
 Button_2546A365_0D18_66EE_41A3_081297220AE2.label = DRONE
 Button_2546D365_0D18_66EE_41A7_43FF7452812D.label = Drone Titik Akhir
 Button_2546C365_0D18_66EE_41AA_447A603C12C4.label = Drone Titik Awal
-Button_2547B36A_0D18_66FA_41A6_584DB3A04A7C.pressedLabel = Lorem Ipsum
-Button_2547B36A_0D18_66FA_41A6_584DB3A04A7C.label = Lorem Ipsum
-Button_2547536A_0D18_66FA_41A2_DE03CEF3EC24.label = Lorem Ipsum
-Button_2547A36A_0D18_66FA_41A2_1ECD18ACABD1.label = Lorem Ipsum
+Button_25478366_0D18_66EA_419E_6213BBF5E3BE.label = JALUR
+Button_2546B366_0D18_66EA_419B_FF0D15C14D1A.label = JALUR MOTOR CROSS
+Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.label = Jalan Sawang
+Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.pressedLabel = Jalan Sawang
+Button_2544A368_0D18_66E6_41AA_AF2E4FDB3D7C.label = Jalur Utama
 Button_2544336A_0D18_66FA_4189_8D3FE72496FC.label = Lorem Ipsum
-Button_2544236A_0D18_66FA_4195_11E2D7A6039C.label = Lorem Ipsum
-Button_25465366_0D18_66EA_41A9_BBC28DF890BA.label = Lorem Ipsum
-Button_2546B366_0D18_66EA_419B_FF0D15C14D1A.label = Lorem Ipsum
+Button_2547F36A_0D18_66FA_419A_D23EC0E7A5A5.label = Lorem Ipsum
+Button_2544F368_0D18_66E6_418C_901073C464FD.label = Lorem Ipsum
 Button_25468366_0D18_66EA_4198_F14D67A72DE4.label = Lorem Ipsum
 Button_25468366_0D18_66EA_4198_F14D67A72DE4.pressedLabel = Lorem Ipsum
 Button_25469366_0D18_66EA_4141_0712F5C42E54.label = Lorem Ipsum
 Button_2546E366_0D18_66EA_419E_4CD9795F1872.label = Lorem Ipsum
-Button_2547B367_0D18_66EA_41A5_721685E904DF.pressedLabel = Lorem Ipsum
+Button_2547B368_0D18_66E6_41A5_4EEDD16B7121.label = Lorem Ipsum
 Button_2546C366_0D18_66EA_419A_20F14F821A24.label = Lorem Ipsum
 Button_2546D366_0D18_66EA_4179_6137A4E4B57F.label = Lorem Ipsum
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.pressedLabel = Lorem Ipsum
-Button_25475367_0D18_66EA_41A3_9DCBBBD5D498.label = Lorem Ipsum
-Button_2547A367_0D18_66EA_41A3_63CA940B9AAC.label = Lorem Ipsum
-Button_2547B367_0D18_66EA_41A5_721685E904DF.label = Lorem Ipsum
-Button_25445369_0D18_66E6_4154_2AA2D5B9F0F6.label = Lorem Ipsum
-Button_25479367_0D18_66EA_4199_854EFF98041F.label = Lorem Ipsum
-Button_2547F367_0D18_66EA_4199_BC3FBC057ECA.label = Lorem Ipsum
 Button_2547936A_0D18_66FA_41A2_FE08F45646CE.label = Lorem Ipsum
-Button_2547D367_0D18_66EA_41A8_BD9AE3220AC7.label = Lorem Ipsum
-Button_25443367_0D18_66EA_41A3_856889BAE99F.label = Lorem Ipsum
-Button_2547B368_0D18_66E6_41A5_4EEDD16B7121.label = Lorem Ipsum
-Button_2544A368_0D18_66E6_41AA_AF2E4FDB3D7C.label = Lorem Ipsum
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.label = Lorem Ipsum
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.label = Lorem Ipsum
-Button_2547D369_0D18_66E6_41A4_1FDF7900A814.label = Lorem Ipsum
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4.label = Lorem Ipsum
-Button_2544F368_0D18_66E6_418C_901073C464FD.label = Lorem Ipsum
-Button_25443369_0D18_66E6_419F_61DFE77B09B9.label = Lorem Ipsum
+Button_2547B36A_0D18_66FA_41A6_584DB3A04A7C.label = Lorem Ipsum
 Button_2547A368_0D18_66E6_416F_B022705C6212.label = Lorem Ipsum
-Button_25443369_0D18_66E6_419F_61DFE77B09B9.pressedLabel = Lorem Ipsum
-Button_2547F36A_0D18_66FA_419A_D23EC0E7A5A5.label = Lorem Ipsum
-Button_25440369_0D18_66E6_417D_30EF0777F70A.label = Lorem Ipsum
-Button_25442369_0D18_66E6_4176_4BB5E316D1FA.label = Lorem Ipsum
-Button_25441369_0D18_66E6_41A3_BD3DF454B380.label = Lorem Ipsum
+Button_2547536A_0D18_66FA_41A2_DE03CEF3EC24.label = Lorem Ipsum
+Button_2547A36A_0D18_66FA_41A2_1ECD18ACABD1.label = Lorem Ipsum
+Button_2547B36A_0D18_66FA_41A6_584DB3A04A7C.pressedLabel = Lorem Ipsum
+Button_25445369_0D18_66E6_4154_2AA2D5B9F0F6.label = Lorem Ipsum
+Button_2544236A_0D18_66FA_4195_11E2D7A6039C.label = Lorem Ipsum
 Button_25444369_0D18_66E6_41A7_8FBB65416047.label = Lorem Ipsum
-Button_2547D36A_0D18_66FA_41A8_CDD0322DA7C7.label = Lorem ipsum
-Button_2546F366_0D18_66EA_41A5_EFFB7B66FB15.label = Lorem ipsum
+Button_2547D369_0D18_66E6_41A4_1FDF7900A814.label = Lorem Ipsum
+Button_25441369_0D18_66E6_41A3_BD3DF454B380.label = Lorem Ipsum
+Button_25442369_0D18_66E6_4176_4BB5E316D1FA.label = Lorem Ipsum
+Button_25443369_0D18_66E6_419F_61DFE77B09B9.pressedLabel = Lorem Ipsum
+Button_25443369_0D18_66E6_419F_61DFE77B09B9.label = Lorem Ipsum
+Button_25440369_0D18_66E6_417D_30EF0777F70A.label = Lorem Ipsum
 Button_25447369_0D18_66E6_4175_C3B65AF4392E.label = Lorem ipsum
 Button_25474368_0D18_66E6_419B_AFBA62014CE8.label = Lorem ipsum
-Button_2547C367_0D18_66EA_419D_CC1FD203C752.label = Lorem ipsum
+Button_2547D36A_0D18_66FA_41A8_CDD0322DA7C7.label = Lorem ipsum
+Button_2546F366_0D18_66EA_41A5_EFFB7B66FB15.label = Lorem ipsum
 Button_25473365_0D18_66EE_4193_EFA4E01FA5DA.label = Meeting Area 1
 Button_25471365_0D18_66EE_4175_7FB70787CA7A.label = Meeting Area 2
+Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.pressedLabel = Pantai Perancak
+Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.label = Pantai Perancak
 Button_25473369_0D18_66E6_41A0_5FD0B1EF650F.label = RESTAURANTS >
 Button_25472365_0D18_66EE_4183_C4791420B5C4.pressedLabel = Reception
 Button_25472365_0D18_66EE_4183_C4791420B5C4.label = Reception
-Button_25441367_0D18_66EA_41A6_0E63A7D05EC7.label = SPORTS AREA >
 Button_25478368_0D18_66E6_41A9_57B92439234E.label = SWIMMING POOL >
+Button_25465366_0D18_66EA_41A9_BBC28DF890BA.label = TANAH LAPANG
 Button_25471367_0D18_66EA_41A4_73F62D85801D.label = TITIK AKHIR
-Button_25478366_0D18_66EA_419E_6213BBF5E3BE.label = TITIK AWAL
+Button_25441367_0D18_66EA_41A6_0E63A7D05EC7.label = TITIK AWAL
 Button_25474365_0D18_66EE_41A7_69A2A4467514.label = Terrace
+Button_25449368_0D18_66E6_419D_E9C8B85E14B4.pressedLabel = Villa Lima-Lima
+Button_25449368_0D18_66E6_419D_E9C8B85E14B4.label = Villa Lima-Lima
 
 ### Image
 Image_260A67E1_0D08_2DE6_41A0_A05E1F6C7C6E.url = skin/Image_260A67E1_0D08_2DE6_41A0_A05E1F6C7C6E_en.png
+Image_922618D3_1F93_83D9_41B4_42F73EC8EF04.url = skin/Image_922618D3_1F93_83D9_41B4_42F73EC8EF04_en.png
+Image_B601362D_1FB1_8E49_4173_1764FEE3AE6C.url = skin/Image_B601362D_1FB1_8E49_4173_1764FEE3AE6C_en.png
 
 ### Label
-Label_288947B8_14DE_A395_41A5_685C5B949807.text = (+/-) 2800 m 
-Label_2492C6EB_0D08_2FF9_41AA_678A5F2D6FAE.text = PANTAI TANAH LAPANG
-Label_24AAD7A3_0D08_2E69_4192_CD4DCD18879B.text = TITIK AWAL PANTAI TANAH LAPANG MOTOR CROSS
-Label_2EC1F87F_14D9_EC8B_4196_BB475C564AF8.text = TITIK KUMPUL TANAH LAPANG SIRKUIT MOTOR CROSS
+Label_64684A29_1E72_8649_41A3_EB3D13700E7B.text = DESA PRANCAK, JEMBRANA
+Label_9AE96E8B_1D92_9E49_41B6_745BC0F98044.text = JALUR MOTOR CROSS
+Label_9E1D6685_1E71_8E39_41B6_6C6256E4A0D6.text = MOTOR CROSS
+Label_2492C6EB_0D08_2FF9_41AA_678A5F2D6FAE.text = TEA TANAH LAPANG SIRKUIT MOTOR CROSS
+Label_2EC1F87F_14D9_EC8B_4196_BB475C564AF8.text = TITIK AKHIR EVAKUASI TANAH LAPANG SIRKUIT
+Label_24AAD7A3_0D08_2E69_4192_CD4DCD18879B.text = TITIK AWAL EVAKUASI PANTAI PRANCAK (+/-) 2800 m 
 
 ### Multiline Text
 HTMLText_2544636A_0D18_66FA_4185_8F3255F0D4F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
