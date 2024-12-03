@@ -4,17 +4,17 @@
 
 ### URL
 LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_9C7FA4CD_8A01_6B74_41E0_C08BD333A8FB.source = https://andikaarywiguna.github.io/tanahlapang/
+LinkBehaviour_90DC6964_8A0F_9D34_41D7_A5759A2D7A81.source = https://andikaarywiguna.github.io/tanahlapang/
 LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_9C7F14CE_8A01_6B74_41D3_20BCACC97FF4.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_9C6994F6_8A01_6B14_41D5_63B497D72359.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_90DBB965_8A0F_9D34_41A3_5E8C68AC9036.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_90D5C9A7_8A0F_9D34_41E0_B0C6AC5E90F7.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_9C7724F6_8A01_6B14_41D7_087AFCE10114.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_90D349A6_8A0F_9D34_41BE_C04D3FA76D85.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_240ED8FE_0D18_23DB_4185_EB137588CDCC.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
-LinkBehaviour_9C69A4F7_8A01_6B14_41C2_5B5454EE6A9D.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_90C869A8_8A0F_9D3C_41CE_9FA8A209D00E.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_15552651_3986_CC8A_41C5_A0E4784FC384.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
-PopupWebFrameBehaviour_9C7884A8_8A01_6B3B_41C7_74165014C597.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
+PopupWebFrameBehaviour_90E6D944_8A0F_9D6B_41DA_E8EABA30984B.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 PopupWebFrameBehaviour_25F73DA3_0D18_E26A_419D_C123D8D1BFEE.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 
 ## Hotspot
@@ -141,12 +141,12 @@ album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_0.label = tsunami-saat-ada-peringatan
 album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_926E6E5E_8A01_B714_41C4_5AB567AEE32E.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
-videolevel_926E6E5E_8A01_B714_41C4_5AB567AEE32E.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
-videolevel_926EAECC_8A01_B774_41A9_99520A828656.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
-videolevel_926EAECC_8A01_B774_41A9_99520A828656.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
-videolevel_926DCF46_8A01_B574_41C8_43BBFB5738F3.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
-videolevel_926DCF46_8A01_B574_41C8_43BBFB5738F3.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
+videolevel_944CE4D5_8CD7_5FF4_41C0_63379DF5086B.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
+videolevel_944CE4D5_8CD7_5FF4_41C0_63379DF5086B.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
+videolevel_944E2531_8CD7_5E4C_41E1_53869BF3D53B.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
+videolevel_944E2531_8CD7_5E4C_41E1_53869BF3D53B.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
+videolevel_944EE597_8CD7_5E74_41B4_F0E139CE043E.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
+videolevel_944EE597_8CD7_5E74_41B4_F0E139CE043E.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
 
 ### Video Subtitles
 
