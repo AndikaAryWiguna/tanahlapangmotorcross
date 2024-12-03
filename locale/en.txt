@@ -3,29 +3,19 @@
 ## Action
 
 ### URL
-LinkBehaviour_7EF1E98A_6158_E8FB_41B5_9E009F6B80E1.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_7E8249BB_6158_E819_41C6_4F676B2D9410.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_9A777F3D_1E9F_7E49_4194_50423812FA8C.source = https://andikaarywiguna.github.io/tanahlapang/
 LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://andikaarywiguna.github.io/tanahlapang/
+LinkBehaviour_9C7FA4CD_8A01_6B74_41E0_C08BD333A8FB.source = https://andikaarywiguna.github.io/tanahlapang/
 LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_7EFDE9BD_6158_E819_41BF_D92D195E9CE3.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_6157C4A3_1E9F_8279_4190_37BE5BC9E94B.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_7EF1A98C_6158_E8FF_41D5_7933A50758A2.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_9C7F14CE_8A01_6B74_41D3_20BCACC97FF4.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_9C6994F6_8A01_6B14_41D5_63B497D72359.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_7EF2997B_6158_E819_41D7_18AB2F9CDC47.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_61AFE810_4828_ABEB_41D0_98A9475A9711.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_7EFAD99E_6158_E81B_41C6_882820FE44E6.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_9C7724F6_8A01_6B14_41D7_087AFCE10114.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_240ED8FE_0D18_23DB_4185_EB137588CDCC.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_7EF2D97A_6158_E81B_41D8_16C409B18D22.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_7EFA299E_6158_E81B_4165_F126A6F63395.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_61AA780E_4828_ABF7_41A3_76950F8ADEE8.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_7EF3497B_6158_E819_4188_ED60B6795841.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
-LinkBehaviour_61919812_4828_ABEF_41C7_883707F59F2B.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
-LinkBehaviour_7EFA999F_6158_E819_419A_C42889EE122A.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_9C69A4F7_8A01_6B14_41C2_5B5454EE6A9D.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_15552651_3986_CC8A_41C5_A0E4784FC384.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+PopupWebFrameBehaviour_9C7884A8_8A01_6B3B_41C7_74165014C597.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 PopupWebFrameBehaviour_25F73DA3_0D18_E26A_419D_C123D8D1BFEE.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
-PopupWebFrameBehaviour_7EE9A96D_6158_E839_41B7_260380281C5A.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 
 ## Hotspot
 
@@ -151,12 +141,12 @@ album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_0.label = tsunami-saat-ada-peringatan
 album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_55D613B8_6158_B827_41D6_AF31E7A4F3A4.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
-videolevel_55D613B8_6158_B827_41D6_AF31E7A4F3A4.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
-videolevel_55D7245E_6158_B81B_41D4_165B688FE7D4.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
-videolevel_55D7245E_6158_B81B_41D4_165B688FE7D4.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
-videolevel_55D024F4_6158_B82F_41C0_CF2E2F491C1E.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
-videolevel_55D024F4_6158_B82F_41C0_CF2E2F491C1E.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
+videolevel_926E6E5E_8A01_B714_41C4_5AB567AEE32E.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
+videolevel_926E6E5E_8A01_B714_41C4_5AB567AEE32E.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
+videolevel_926EAECC_8A01_B774_41A9_99520A828656.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
+videolevel_926EAECC_8A01_B774_41A9_99520A828656.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
+videolevel_926DCF46_8A01_B574_41C8_43BBFB5738F3.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
+videolevel_926DCF46_8A01_B574_41C8_43BBFB5738F3.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
 
 ### Video Subtitles
 
@@ -173,126 +163,52 @@ htmlText_24211817_04C3_D737_4192_5A77F1797A9C.html = <div style="text-align:left
 ## Skin
 
 ### Button
-Button_25476365_0D18_66EE_41A7_F970DCA27EE0_mobile.label = Bar
-Button_25476365_0D18_66EE_41A7_F970DCA27EE0.label = Bar
-Button_25477365_0D18_66EE_41A4_74CA7A759567_mobile.label = Chill Out
-Button_25477365_0D18_66EE_41A4_74CA7A759567.label = Chill Out
-Button_2546A365_0D18_66EE_41A3_081297220AE2_mobile.label = DRONE
-Button_6989E7FC_4DEC_6D3A_41CF_0DEAA8CA0A61.label = DRONE
 Button_6989E7FC_4DEC_6D3A_41CF_0DEAA8CA0A61_mobile.label = DRONE
-Button_2546A365_0D18_66EE_41A3_081297220AE2.label = DRONE
-Button_2546D365_0D18_66EE_41A7_43FF7452812D_mobile.label = Drone Titik Akhir
+Button_6989E7FC_4DEC_6D3A_41CF_0DEAA8CA0A61.label = DRONE
 Button_6980881D_4DEC_62FA_41A9_9A326454240A.label = Drone Titik Akhir
 Button_6980881D_4DEC_62FA_41A9_9A326454240A_mobile.label = Drone Titik Akhir
-Button_2546D365_0D18_66EE_41A7_43FF7452812D.label = Drone Titik Akhir
-Button_6981481B_4DEC_62FE_41D1_C989D1498D21.label = Drone Titik Awal
-Button_2546C365_0D18_66EE_41AA_447A603C12C4.label = Drone Titik Awal
-Button_2546C365_0D18_66EE_41AA_447A603C12C4_mobile.label = Drone Titik Awal
 Button_6981481B_4DEC_62FE_41D1_C989D1498D21_mobile.label = Drone Titik Awal
-Button_25478368_0D18_66E6_41A9_57B92439234E_mobile.label = INFO
-Button_69F33425_4DEC_22CA_41B5_89164DC7DA20_mobile.label = INFO
-Button_25478368_0D18_66E6_41A9_57B92439234E.label = INFO
+Button_6981481B_4DEC_62FE_41D1_C989D1498D21.label = Drone Titik Awal
 Button_69F33425_4DEC_22CA_41B5_89164DC7DA20.label = INFO
+Button_69F33425_4DEC_22CA_41B5_89164DC7DA20_mobile.label = INFO
 Button_6941C16F_4DEC_6556_41CD_12688538D283.label = JALUR
-Button_25478366_0D18_66EA_419E_6213BBF5E3BE_mobile.label = JALUR
 Button_6941C16F_4DEC_6556_41CD_12688538D283_mobile.label = JALUR
-Button_25478366_0D18_66EA_419E_6213BBF5E3BE.label = JALUR
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.label = Jalan Sawang
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.pressedLabel = Jalan Sawang
-Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40_mobile.label = Jalan Sawang
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3_mobile.label = Jalan Sawang
 Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40.label = Jalan Sawang
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3_mobile.pressedLabel = Jalan Sawang
-Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40.pressedLabel = Jalan Sawang
+Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40_mobile.label = Jalan Sawang
 Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40_mobile.pressedLabel = Jalan Sawang
-Button_2546B366_0D18_66EA_419B_FF0D15C14D1A_mobile.label = Jalur Motor Cross
+Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40.pressedLabel = Jalan Sawang
 Button_6949514A_4DEC_655E_41D0_CE4C05B78F63.label = Jalur Motor Cross
 Button_6949514A_4DEC_655E_41D0_CE4C05B78F63_mobile.label = Jalur Motor Cross
-Button_2546B366_0D18_66EA_419B_FF0D15C14D1A.label = Jalur Motor Cross
-Button_2544A368_0D18_66E6_41AA_AF2E4FDB3D7C.label = Jalur Utama
-Button_2544A368_0D18_66E6_41AA_AF2E4FDB3D7C_mobile.label = Jalur Utama
-Button_7116EDC5_5607_A6EA_41C2_C5ACB5EEBB4B_mobile.label = Langkah Evakuasi
 Button_7116EDC5_5607_A6EA_41C2_C5ACB5EEBB4B.label = Langkah Evakuasi
-Button_2547A368_0D18_66E6_416F_B022705C6212_mobile.label = Lorem Ipsum
-Button_2547B368_0D18_66E6_41A5_4EEDD16B7121.label = Lorem Ipsum
-Button_2547A368_0D18_66E6_416F_B022705C6212.label = Lorem Ipsum
-Button_2547B368_0D18_66E6_41A5_4EEDD16B7121_mobile.label = Lorem Ipsum
-Button_2546C366_0D18_66EA_419A_20F14F821A24_mobile.label = Lorem Ipsum
-Button_25469366_0D18_66EA_4141_0712F5C42E54.label = Lorem Ipsum
-Button_25468366_0D18_66EA_4198_F14D67A72DE4_mobile.pressedLabel = Lorem Ipsum
-Button_25469366_0D18_66EA_4141_0712F5C42E54_mobile.label = Lorem Ipsum
-Button_2546D366_0D18_66EA_4179_6137A4E4B57F.label = Lorem Ipsum
-Button_2544F368_0D18_66E6_418C_901073C464FD.label = Lorem Ipsum
-Button_2546C366_0D18_66EA_419A_20F14F821A24.label = Lorem Ipsum
-Button_2546E366_0D18_66EA_419E_4CD9795F1872.label = Lorem Ipsum
-Button_25468366_0D18_66EA_4198_F14D67A72DE4.label = Lorem Ipsum
-Button_25468366_0D18_66EA_4198_F14D67A72DE4.pressedLabel = Lorem Ipsum
-Button_2546D366_0D18_66EA_4179_6137A4E4B57F_mobile.label = Lorem Ipsum
-Button_2544F368_0D18_66E6_418C_901073C464FD_mobile.label = Lorem Ipsum
-Button_25468366_0D18_66EA_4198_F14D67A72DE4_mobile.label = Lorem Ipsum
-Button_2546E366_0D18_66EA_419E_4CD9795F1872_mobile.label = Lorem Ipsum
-Button_2546F366_0D18_66EA_41A5_EFFB7B66FB15_mobile.label = Lorem ipsum
-Button_2546F366_0D18_66EA_41A5_EFFB7B66FB15.label = Lorem ipsum
-Button_25474368_0D18_66E6_419B_AFBA62014CE8_mobile.label = Lorem ipsum
-Button_25474368_0D18_66E6_419B_AFBA62014CE8.label = Lorem ipsum
-Button_25473365_0D18_66EE_4193_EFA4E01FA5DA_mobile.label = Meeting Area 1
-Button_25473365_0D18_66EE_4193_EFA4E01FA5DA.label = Meeting Area 1
-Button_25471365_0D18_66EE_4175_7FB70787CA7A.label = Meeting Area 2
-Button_25471365_0D18_66EE_4175_7FB70787CA7A_mobile.label = Meeting Area 2
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.label = Pantai Perancak
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.pressedLabel = Pantai Perancak
-Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3.pressedLabel = Pantai Perancak
+Button_7116EDC5_5607_A6EA_41C2_C5ACB5EEBB4B_mobile.label = Langkah Evakuasi
 Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3.label = Pantai Perancak
+Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3.pressedLabel = Pantai Perancak
 Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3_mobile.pressedLabel = Pantai Perancak
 Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3_mobile.label = Pantai Perancak
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6_mobile.pressedLabel = Pantai Perancak
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6_mobile.label = Pantai Perancak
-Button_7F2C0722_6158_D82B_41D5_C0D4DAAE2201.label = Penanggulangan
 Button_7F2C0722_6158_D82B_41D5_C0D4DAAE2201_mobile.label = Penanggulangan
+Button_7F2C0722_6158_D82B_41D5_C0D4DAAE2201.label = Penanggulangan
 Button_71EB506D_5607_BDBA_41C7_92546D5F7A44_mobile.label = Pengenalan Rambu
 Button_71EB506D_5607_BDBA_41C7_92546D5F7A44.label = Pengenalan Rambu
-Button_7132B346_5605_A3F6_41CA_00BD49D15DDF.label = Peta
 Button_7132B346_5605_A3F6_41CA_00BD49D15DDF_mobile.label = Peta
-Button_25472365_0D18_66EE_4183_C4791420B5C4.pressedLabel = Reception
-Button_25472365_0D18_66EE_4183_C4791420B5C4.label = Reception
-Button_25472365_0D18_66EE_4183_C4791420B5C4_mobile.label = Reception
-Button_25472365_0D18_66EE_4183_C4791420B5C4_mobile.pressedLabel = Reception
-Button_6AF1D954_4DD4_254A_41CF_ED6B33765C05_mobile.label = TITIK AKHIR
-Button_25471367_0D18_66EA_41A4_73F62D85801D.label = TITIK AKHIR
-Button_25471367_0D18_66EA_41A4_73F62D85801D_mobile.label = TITIK AKHIR
+Button_7132B346_5605_A3F6_41CA_00BD49D15DDF.label = Peta
 Button_6AF1D954_4DD4_254A_41CF_ED6B33765C05.label = TITIK AKHIR
+Button_6AF1D954_4DD4_254A_41CF_ED6B33765C05_mobile.label = TITIK AKHIR
 Button_69297E5F_4DEC_3F76_41B8_FA0EA83B9834.label = TITIK AWAL
 Button_69297E5F_4DEC_3F76_41B8_FA0EA83B9834_mobile.label = TITIK AWAL
-Button_25441367_0D18_66EA_41A6_0E63A7D05EC7_mobile.label = TITIK AWAL
-Button_25441367_0D18_66EA_41A6_0E63A7D05EC7.label = TITIK AWAL
-Button_69490147_4DEC_6556_41B6_4189E4B3D265_mobile.label = Tanah Lapang
-Button_25465366_0D18_66EA_41A9_BBC28DF890BA_mobile.label = Tanah Lapang
-Button_25465366_0D18_66EA_41A9_BBC28DF890BA.label = Tanah Lapang
 Button_69490147_4DEC_6556_41B6_4189E4B3D265.label = Tanah Lapang
-Button_25474365_0D18_66EE_41A7_69A2A4467514_mobile.label = Terrace
-Button_25474365_0D18_66EE_41A7_69A2A4467514.label = Terrace
-Button_710D2347_5605_A3F6_41C0_F2E43EEB4D45_mobile.label = Tindakan
+Button_69490147_4DEC_6556_41B6_4189E4B3D265_mobile.label = Tanah Lapang
 Button_710D2347_5605_A3F6_41C0_F2E43EEB4D45.label = Tindakan
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4_mobile.pressedLabel = Villa Lima-Lima
+Button_710D2347_5605_A3F6_41C0_F2E43EEB4D45_mobile.label = Tindakan
 Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21_mobile.label = Villa Lima-Lima
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4_mobile.label = Villa Lima-Lima
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4.pressedLabel = Villa Lima-Lima
 Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21_mobile.pressedLabel = Villa Lima-Lima
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4.label = Villa Lima-Lima
-Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21.pressedLabel = Villa Lima-Lima
 Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21.label = Villa Lima-Lima
+Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21.pressedLabel = Villa Lima-Lima
 
 ### Image
 Image_14F02511_398B_CC8A_41C7_A72843532B48.url = skin/Image_14F02511_398B_CC8A_41C7_A72843532B48_en.png
 Image_14F02511_398B_CC8A_41C7_A72843532B48_mobile.url = skin/Image_14F02511_398B_CC8A_41C7_A72843532B48_mobile_en.png
 Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38.url = skin/Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_en.png
 Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_mobile.url = skin/Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_mobile_en.png
-
-### Multiline Text
-HTMLText_61A9180B_4828_ABFC_41CF_D5A70BF2A4A5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_2544636A_0D18_66FA_4185_8F3255F0D4F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_61A9180B_4828_ABFC_41CF_D5A70BF2A4A5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_2544636A_0D18_66FA_4185_8F3255F0D4F6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
